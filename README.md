@@ -1,6 +1,6 @@
 # HU Tutor
 
-A Python-based AI tutoring command based application with speech capabilities.
+A Python-based AI tutoring command based application for the Hungarian language with speech capabilities.
 
 ## Project Structure
 
